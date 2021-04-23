@@ -1,3 +1,3 @@
 # advent-of-code-scala
 
-More on advent of code (AoC) here -> https://adventofcode.com
+More on Advent of Code (AoC) here -> https://adventofcode.com
